@@ -1,0 +1,7 @@
+FROM node
+
+copy . .
+
+run yarn start
+
+ENTRYPOINT [ "app" ]

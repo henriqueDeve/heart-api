@@ -6,6 +6,9 @@
   "author": "henriqueDeve <henriqueferrazgame@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@nestjs/common": "^9.2.1",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.0",
     "yarn": "^1.22.19"
   }
 }
